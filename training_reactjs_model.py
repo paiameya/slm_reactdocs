@@ -2,10 +2,10 @@ import os
 import numpy as np
 import tensorflow as tf
 
-BATCH_SIZE = 64
-BUFFER_SIZE = 100000
-embedding_dim = 500
-rnn_units = 2048
+BATCH_SIZE = 128
+BUFFER_SIZE = 400000
+embedding_dim = 1000
+rnn_units = 4096
 EPOCHS = 75
 seq_length = 100
 
