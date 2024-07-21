@@ -1,0 +1,2 @@
+URL: https://react.dev/learn/synchronizing-with-effects
+Title: Synchronizing with Effects – React

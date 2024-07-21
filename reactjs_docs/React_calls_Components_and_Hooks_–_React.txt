@@ -1,0 +1,2 @@
+URL: https://react.dev/reference/rules/react-calls-components-and-hooks
+Title: React calls Components and Hooks – React

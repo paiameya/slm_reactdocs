@@ -1,0 +1,2 @@
+URL: https://react.dev/reference/react/useSyncExternalStore
+Title: useSyncExternalStore – React

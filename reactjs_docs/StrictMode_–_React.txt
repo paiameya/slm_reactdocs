@@ -1,0 +1,2 @@
+URL: https://react.dev/reference/react/StrictMode
+Title: <StrictMode> – React

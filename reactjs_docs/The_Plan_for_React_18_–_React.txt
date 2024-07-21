@@ -1,0 +1,2 @@
+URL: https://react.dev/blog/2021/06/08/the-plan-for-react-18
+Title: The Plan for React 18 – React

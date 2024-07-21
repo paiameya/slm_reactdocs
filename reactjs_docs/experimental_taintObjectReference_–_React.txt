@@ -1,0 +1,2 @@
+URL: https://react.dev/reference/react/experimental_taintObjectReference
+Title: experimental_taintObjectReference – React

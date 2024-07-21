@@ -1,0 +1,2 @@
+URL: https://react.dev/reference/react-dom/components/common
+Title: Common components (e.g. <div>) – React

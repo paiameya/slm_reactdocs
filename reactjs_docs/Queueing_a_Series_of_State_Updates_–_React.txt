@@ -1,0 +1,2 @@
+URL: https://react.dev/learn/queueing-a-series-of-state-updates
+Title: Queueing a Series of State Updates – React

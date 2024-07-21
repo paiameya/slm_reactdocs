@@ -1,0 +1,2 @@
+URL: https://react.dev/community/translations
+Title: Translations – React

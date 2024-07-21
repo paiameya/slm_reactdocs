@@ -1,0 +1,2 @@
+URL: https://react.dev/reference/rules/components-and-hooks-must-be-pure
+Title: Components and Hooks must be pure – React

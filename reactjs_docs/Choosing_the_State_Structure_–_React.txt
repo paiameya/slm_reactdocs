@@ -1,0 +1,2 @@
+URL: https://react.dev/learn/choosing-the-state-structure
+Title: Choosing the State Structure – React

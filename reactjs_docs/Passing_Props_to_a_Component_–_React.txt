@@ -1,0 +1,2 @@
+URL: https://react.dev/learn/passing-props-to-a-component
+Title: Passing Props to a Component – React

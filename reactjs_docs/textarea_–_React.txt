@@ -1,0 +1,2 @@
+URL: https://react.dev/reference/react-dom/components/textarea
+Title: <textarea> – React

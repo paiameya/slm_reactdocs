@@ -1,0 +1,2 @@
+URL: https://react.dev/reference/react/useMemo
+Title: useMemo – React

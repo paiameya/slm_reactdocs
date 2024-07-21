@@ -1,0 +1,2 @@
+URL: https://react.dev/reference/react/act
+Title: act – React
